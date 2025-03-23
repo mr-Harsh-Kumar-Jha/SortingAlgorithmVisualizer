@@ -14,9 +14,9 @@ The Sorting Algorithm Visualizer is an interactive web application that helps us
 
 ## Technologies Used
 
-- **JavaScript**: The core functionality and logic of the sorting algorithms.
-- **HTML**: The structure of the web application.
-- **CSS**: Styling and layout of the application.
+- ** JavaScript**: The core functionality and logic of the sorting algorithms.
+- ** HTML**: The structure of the web application.
+- ** CSS**: Styling and layout of the application.
 
 ## Usage
 
